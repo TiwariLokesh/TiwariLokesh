@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer** with 2+ years of experience in full-stack development, specializing in building scalable web applications and innovative solutions. Currently pursuing B.Tech in Computer Science Engineering at SVIET, Chandigarh.
+I'm a passionate **Software Engineer** with internship experience in full-stack development, specializing in building scalable web applications and innovative solutions. Currently pursuing B.Tech in Computer Science Engineering at SVIET, Chandigarh.
 
 - 🔭 **Currently working on:** Full-stack web applications using React.js and Node.js
 - 🌱 **Currently learning:** Advanced System Design, Microservices Architecture, and Cloud Technologies
